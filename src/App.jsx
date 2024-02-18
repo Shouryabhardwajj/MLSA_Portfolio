@@ -30,8 +30,8 @@ const siteProps = {
   gitHub: "Shouryabhardwajj",
   instagram: "shourya_bhardwajj",
   linkedIn: "shouryabhardwajj",
-  medium: "@Shouryabhardwaj",
-  twitter: "Shourya@29621872",
+  medium: "@Shouryabhardwaj19",
+  twitter: "Shourya29621872",
   youTube: "Code",
 };
 
